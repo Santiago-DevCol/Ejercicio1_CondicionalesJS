@@ -1,7 +1,5 @@
 
-let numSelect = prompt("indicame un numero");
-
-numSelect=parseInt(numSelect);
+let numSelect = parseInt(prompt("indicame un numero"));
 
 if (numSelect % 2 === 0 ) {
     alert(numSelect + " es divisible entre 2");
