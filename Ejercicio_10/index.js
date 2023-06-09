@@ -55,7 +55,7 @@ if (validarDeseoEstudiar != "SI") {
 
     alert("Seleccionaste el nivel " + mensaje);
 
-    alert("Ahora que ya sabes tu carrera queremos saver si quieres una beca");
+    alert("Ahora que ya sabes tu carrera queremos saber si quieres una beca");
     
     deseoBeca = prompt("responde Si o No si deseas una Beca").toUpperCase();
 
